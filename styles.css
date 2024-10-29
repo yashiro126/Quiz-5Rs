@@ -1,0 +1,65 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    background-color: hsl(135, 37%, 40%);
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo do título */
+h1 {
+    font-size: 2em;
+    color: #2c3e50;
+    text-align: center;
+}
+
+/* Estilo das perguntas */
+.question-block {
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #34495e;
+}
+
+/* Estilos das opções */
+.option-label {
+    display: block;
+    font-size: 1.2em;
+    margin-bottom: 8px;
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+/* Estilos do botão */
+.btn {
+    display: inline-block;
+    background-color: #27ae60;
+    color: white;
+    padding: 10px 20px
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
